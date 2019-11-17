@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tymyvy on github.
+  * I am tymyvy (https://keybase.io/tymyvy) on keybase.
+  * I have a public key ASDyJo5MffDMlRETJhfA4e6tybIjtFGOoLvdM3vqxRxgDQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f2268e4c7df0cc9511132617c0e1eeadc9b223b4518ea0bbdd337beac51c600d0a",
+      "host": "keybase.io",
+      "kid": "0120f2268e4c7df0cc9511132617c0e1eeadc9b223b4518ea0bbdd337beac51c600d0a",
+      "uid": "d4270b9131ea5d048368c85dba73a119",
+      "username": "tymyvy"
+    },
+    "merkle_root": {
+      "ctime": 1574007991,
+      "hash": "a270d99080f88ebb260450a8e11dce054bfa6580bcf78abbfee91bd6f9fc574646a8f1330da438b8607f3ad358c7fc1adaea0460c111d7a8812c00ce8f8f441d",
+      "hash_meta": "2c04c4a2addaada043f4d26d62f0abf604cd021031413d11e2ae2d9b5e3c4206",
+      "seqno": 9957603
+    },
+    "service": {
+      "entropy": "QdC9KqGU7u50vSlV96IpXgqi",
+      "name": "github",
+      "username": "tymyvy"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574007999,
+  "expire_in": 504576000,
+  "prev": "c0a631307de218ce77186d5afd9c9d8782fb4cf976593eb9205876fba6c52f6b",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASDyJo5MffDMlRETJhfA4e6tybIjtFGOoLvdM3vqxRxgDQo](https://keybase.io/tymyvy), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8iaOTH3wzJUREyYXwOHurcmyI7RRjqC73TN76sUcYA0Kp3BheWxvYWTESpcCDsQgwKYxMH3iGM53GG1a/Zydh4L7TPl2WT65IFh2+6bFL2vEIKkQrw9+MMTJRezu4U3UvzdAiIRz2XukYJGhL2AZGDCpAgHCo3NpZ8RA7mSESkP7KzrgtnhJ/5LDDGNqmh7wOs+afegX4bj5h/BD1FgX9jy+tlFRlTgyWdqurG4mi7di+T+0Ww1J/6oxCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGRhaZrk81XEJmSh8Zb+L71gjfz7QWCwy4pLw5xXTLyAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tymyvy
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tymyvy
+```
